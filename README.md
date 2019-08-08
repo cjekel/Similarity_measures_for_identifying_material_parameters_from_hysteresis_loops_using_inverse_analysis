@@ -1,0 +1,2 @@
+# Similarity_measures_for_identifying_material_parameters_from_hysteresis_loops_using_inverse_analysis
+Moved to https://github.com/cjekel/similarity_measures
